@@ -1,2 +1,3 @@
 # STL-Web-Solutions
-Our website for advertising our own web design solutions at a low cost to the end user.
+What is STL Web Solutions? Well we are a small team of experienced web designers that work with local and smaller businesses to create 
+functional and user friendly websites for their business. 
